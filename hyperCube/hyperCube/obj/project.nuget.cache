@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VkxHjlX0KStxAHkvXiNqoM1JlhuB2H0D2D6MazGRTko5BMR8kyH3OhDI0znKdwwpW0br8SpS99+dOYiWGZ4CNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jay Rulez\\Desktop\\C# Projects\\hyperCube\\hyperCube\\hyperCube.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jay Rulez\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.116\\stub.system.data.sqlite.core.netstandard.1.0.116.nupkg.sha512",
+    "C:\\Users\\Jay Rulez\\.nuget\\packages\\system.data.sqlite.core\\1.0.116\\system.data.sqlite.core.1.0.116.nupkg.sha512"
+  ],
+  "logs": []
+}
