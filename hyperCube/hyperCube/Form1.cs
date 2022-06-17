@@ -26,7 +26,7 @@ namespace hyperCube
             using var con = new SQLiteConnection(cs);
             con.Open();
 
-            string stm = "SELECT * FROM score ORDER BY time DESC";
+            string stm = "SELECT * FROM score ORDER BY time ASC";
 
             using var cmd = new SQLiteCommand(stm, con);
             using SQLiteDataReader rdr = cmd.ExecuteReader();
